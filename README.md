@@ -12,4 +12,3 @@ secret_key     ****************aPYM              env
 ссылка на репу:
 
 https://github.com/DeSemaS7/homeworks
-/tree/main/terraform
